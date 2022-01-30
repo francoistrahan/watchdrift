@@ -1,14 +1,5 @@
-# Basics
-
-- Create basic project
-- Pump data
-- Clean data + types
-- Userful Features
-- IDs for chains
-
 
 # Analysis
 
-- Graph Measurements
-- Superpose chains
+- Drift stats: migrate to statsmodel to force intercept at 0
 - Graph Average drift over time 

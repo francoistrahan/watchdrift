@@ -6,5 +6,6 @@
 
 # Cosmetic
 
-- Graphs look like crap... provide proper titles and units to graphs
-- Superposed graph is hard to read. Find a better format.
+- Stats output needs to be properly orderred and needs better column names
+- Legend colors don't match between graphs
+- Superposed graph needs a better/cleaner representation; at minima, some radial graduations.
